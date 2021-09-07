@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... React.js
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm very passionate about music
 
 
