@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... some challenging projects
 - 🤔 I’m looking for help with ... React.js
 - 💬 Ask me about ... anything!
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... via e-mail
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm very passionate about music
 
