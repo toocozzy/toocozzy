@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working on ... the personal portfolio
 - 🌱 I’m currently learning ... React.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about...anything!
+- 👯 I’m looking to collaborate on ... some challenging projects
+- 🤔 I’m looking for help with ... React.js
+- 💬 Ask me about ... anything!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm very passionate about music
 
 
 ### Technologies I'm familiar with:
@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 
 
 https://github.com/Ileriayo/markdown-badges
+https://github.com/anuraghazra/github-readme-stats
 -->
