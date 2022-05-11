@@ -25,8 +25,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=toocozzy&show_icons=true&hide=contribs&custom_title=My Stats&theme=tokyonight"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toocozzy&layout=compact&card_width=430px&theme=tokyonight"/>
 
 
 <!--
